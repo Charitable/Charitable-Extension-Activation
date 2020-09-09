@@ -24,7 +24,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Charitable\\Extensions\\Activation": "src/"
+			"Charitable\\Extensions\\Activation\\": "src/"
 		}
 	}
 }
